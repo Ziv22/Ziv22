@@ -1,4 +1,4 @@
-![header](https://i.postimg.cc/XYFp32jN/guilherme-oliveira-4l-Pk-XNeu-Cu8-unsplash-1.jpg)
+![header](https://i.postimg.cc/RVhgPtML/header.jpg)
 ### Hi there 👋
 I'm an experienced manual & automatic QA Engineer for the last 5 years in agile environments.
 I am always looking to develop and improve myself and passionate about solving problems.
