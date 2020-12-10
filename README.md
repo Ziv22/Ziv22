@@ -12,6 +12,7 @@ I am always looking to develop and improve myself and passionate about solving p
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo"  height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo"  height="50">
 <img src="https://mobx.js.org/img/mobx.png" alt="Mobx Logo"  height="45">
+<img src="https://i.pinimg.com/originals/34/20/e5/3420e571b3d7a4a348d8fad91e3bfda4.png" alt="Mobx Logo"  height="45">
 <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" alt="MongoDB Logo"  height="50">
 <img src="https://markdpatton.files.wordpress.com/2020/03/azuresqllogo.png" alt="SQL Logo"  height="50">
 
